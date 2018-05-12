@@ -1,0 +1,29 @@
+_repo: Kaffe-ja-Tupakki_43783
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eurén, Gustaf Erik
+    alias: Euren, Gustaf Erik
+    birthdate: 1818
+    deathdate: 1872
+    gutenberg_agent_id: '6397'
+    url: http://www.gutenberg.org/2009/agents/6397
+    wikipedia: http://fi.wikipedia.org/wiki/Gustaf_Erik_Eur%C3%A9n
+description: ''
+gutenberg_issued: '2013-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43783'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Coffee'
+- !lcsh 'Tobacco'
+title: Kaffe ja Tupakki
+url: http://www.gutenberg.org/ebooks/43783
